@@ -1,2 +1,2 @@
-# minhyeokthougts
+# my diary
 Personal diary
