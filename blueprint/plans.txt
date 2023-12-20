@@ -1,0 +1,29 @@
+1. login credentials
+    cache login data
+
+2. make a post with media -> image, videos, link
+
+3. 
+
+
+
+database tables
+
+first columns are indexes
+
+tags
+    - tag number
+    - tag name
+    - tag display name
+
+media
+    - media number
+    - media type (link, image, video)
+    - media location || media itself
+    
+entry
+    - idNumber: number
+    - content: text
+    - media source: string => path to media
+    - date
+
