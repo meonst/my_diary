@@ -23,5 +23,11 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.0.4"
+  },
+  "prettier": 
+  {
+    "tabWidth": 2,
+    "singleQuote": false,
+    "plugins": ["prettier-plugin-tailwindcss"]
   }
 }
